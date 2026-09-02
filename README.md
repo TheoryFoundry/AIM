@@ -4,6 +4,10 @@ AI Mathehatician (Working In Process)
 
 AIM is an agentic system targed at frontier mathematical research. This version of AIM is equipped with a multistep explore mechanism and a self-verification mechanism. It can further leverage the strong capability of large reasoning models, and provide valuable assistance for human mathematicians. Note that AIM is specifically designed for complex research-level problems, and is not suitable for exercises
 
+Blog: [AI Mathematician](https://ai-mathematician.net/en/)
+
+Project Leads: [Peng Li](https://lpeng.net) and [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/)
+
 ## Usage
 
 Currently you can run AIM at your local machine with the following steps.
